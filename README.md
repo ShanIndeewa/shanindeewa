@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shan Indeewa</h1>
 <h3 align="center">Turning Coffee into Code | BSc Computing @ Coventry (via NIBM) | Building My Future, One Line at a Time</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanindeewa&label=Profile%20views&color=0e75b6&style=flat" alt="shanindeewa" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shanindeewa&label=Profile%20views&color=0e75b6&style=flat" alt="shanindeewa" /> </p>
 
 - 🌱 I’m currently pursuing a ****Bachelor’s Degree in Computing** from **Coventry University**, delivered through **NIBM, Sri Lanka**.**
 
