@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Text -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Cloud+Architecture+Expert+%E2%98%81%EF%B8%8F;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Creative+Thinker+%E2%98%81%EF%B8%8F;Building+the+Future" alt="Typing SVG" />
 </a>
 
 <!-- Animated Badges -->
