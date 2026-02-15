@@ -66,7 +66,7 @@
 <!-- Backend & Database -->
 
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-43853D%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Express.js-404D59%3Fstyle%3Dfor-the-badge" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Express.js-404D59%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3Dwhite" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-00000F%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-4EA94B%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Firebase-FFCA28%3Fstyle%3Dfor-the-badge%26logo%3Dfirebase%26logoColor%3Dblack" />
@@ -116,12 +116,26 @@
 <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dshanindeewa%26theme%3Dtokyonight" alt="shanindeewa" />
 </div>
 
-<!-- Footer / Snake Animation Placeholder (Optional) -->
+<!-- 3D Contribution Graph -->
 
-<!-- To enable the snake animation, you need to set up a GitHub Action.
-Once set up, un-comment the line below:
-<img src="https://www.google.com/search?q=https://github.com/shanindeewa/shanindeewa/blob/output/github-contribution-grid-snake.svg" />
--->
+<!-- Requires 'yoshi389111/github-profile-3d-contrib' Action -->
+
+<div align="center">
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/shanindeewa/shanindeewa/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</div>
+
+<!-- Space Shooter Contribution Graph -->
+
+<!-- Requires 'Plateform/github-profile-contribution-snake' Action -->
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github.com/shanindeewa/shanindeewa/blob/output/github-contribution-grid-snake.svg" alt="Space Shooter/Snake Animation" />
+</div>
 
 <div align="center">
 
