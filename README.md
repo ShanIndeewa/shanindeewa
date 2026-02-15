@@ -1,141 +1,132 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
+# 👋 Hi, I'm Shan Indeewa
 
-<a href="https://www.google.com/search?q=https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D35%26pause%3D1000%26color%3D3F8CFF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHi%2Bthere!%2B%25F0%259F%2591%258B%2BI%27m%2BShan%3BTurning%2BCoffee%2Binto%2BCode%2B%25E2%2598%2595%3BBSc%2BComputing%2B%40%2BCoventry%3BBuilding%2BMy%2BFuture..." alt="Typing SVG" />
-</a>
+### Full-Stack Developer | AI Enthusiast | Building the Future
 
-<!-- Profile Views Badge -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanindeewa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shan-indeewa)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 
-<p>
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dshanindeewa%26label%3DProfile%2520Views%26color%3D0e75b6%26style%3Dfor-the-badge" alt="shanindeewa" />
-</p>
-
-<!-- Social Links -->
-
-<p>
-<a href="mailto:shanindeewa@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
-</a>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/shan-indeewa">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
-</a>
-<a href="https://www.google.com/search?q=https://instagram.com/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" alt="Instagram" />
-</a>
-</p>
-</div>
-
-🚀 About Me
-
-🎓 I’m currently pursuing a Bachelor’s Degree in Computing from Coventry University, delivered through NIBM, Sri Lanka.
-
-💻 I'm passionate about Full-Stack Development, Artificial Intelligence, and building real-world tech solutions.
-
-🌱 I’m currently learning Advanced React Patterns and Cloud Architecture.
-
-⚡ Fun fact: I turn caffeine into deployable code.
-
-🛠️ Languages & Tools
-
-<div align="center">
-
-<!-- Languages -->
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/c-%252300599C.svg%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" alt="C" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/c%2B%2B-%252300599C.svg%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" alt="C++" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/c%2523-%2523239120.svg%3Fstyle%3Dfor-the-badge%26logo%3Dc-sharp%26logoColor%3Dwhite" alt="C#" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/java-%2523ED8B00.svg%3Fstyle%3Dfor-the-badge%26logo%3Dopenjdk%26logoColor%3Dwhite" alt="Java" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/python-3670A0%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dffdd54" alt="Python" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/javascript-%2523323330.svg%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3D%2523F7DF1E" alt="JavaScript" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/kotlin-%25237F52FF.svg%3Fstyle%3Dfor-the-badge%26logo%3Dkotlin%26logoColor%3Dwhite" alt="Kotlin" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/php-%2523777BB4.svg%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" alt="PHP" />
-
-<br />
-
-<!-- Frontend & Mobile -->
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/html5-%2523E34F26.svg%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/css3-%25231572B6.svg%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/bootstrap-%25238511FA.svg%3Fstyle%3Dfor-the-badge%26logo%3Dbootstrap%26logoColor%3Dwhite" alt="Bootstrap" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Flutter-%252302569B.svg%3Fstyle%3Dfor-the-badge%26logo%3DFlutter%26logoColor%3Dwhite" alt="Flutter" />
-
-<br />
-
-<!-- Backend & Database -->
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/node.js-6DA55F%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite" alt="NodeJS" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/express.js-%2523404d59.svg%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3D%252361DAFB" alt="ExpressJS" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/mysql-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" alt="MySQL" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-%25234ea94b.svg%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/firebase-%2523039BE5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dfirebase" alt="Firebase" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Microsoft%2520SQL%2520Server-CC2927%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft%2520sql%2520server%26logoColor%3Dwhite" alt="MSSQL" />
-
-<br />
-
-<!-- Tools & Cloud -->
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/git-%2523F05033.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GoogleCloud-%25234285F4.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-cloud%26logoColor%3Dwhite" alt="GCP" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-%2523FF9900.svg%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Linux-FCC624%3Fstyle%3Dfor-the-badge%26logo%3Dlinux%26logoColor%3Dblack" alt="Linux" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Android-3DDC84%3Fstyle%3Dfor-the-badge%26logo%3Dandroid%26logoColor%3Dwhite" alt="Android" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Arduino-00979D%3Fstyle%3Dfor-the-badge%26logo%3DArduino%26logoColor%3Dwhite" alt="Arduino" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Postman-FF6C37%3Fstyle%3Dfor-the-badge%26logo%3Dpostman%26logoColor%3Dwhite" alt="Postman" />
-
-<br />
-
-<!-- Design -->
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/figma-%2523F24E1E.svg%3Fstyle%3Dfor-the-badge%26logo%3Dfigma%26logoColor%3Dwhite" alt="Figma" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/adobe%2520illustrator-%2523FF9A00.svg%3Fstyle%3Dfor-the-badge%26logo%3Dadobe%2520illustrator%26logoColor%3Dwhite" alt="Illustrator" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/adobe%2520photoshop-%252331A8FF.svg%3Fstyle%3Dfor-the-badge%26logo%3Dadobe%2520photoshop%26logoColor%3Dwhite" alt="Photoshop" />
+![Profile Views](https://komarev.com/ghpvc/?username=shanindeewa&label=Profile%20Views&color=0e75b6&style=flat-square)
 
 </div>
 
-📊 GitHub Stats
+---
+
+## 🚀 About Me
+
+```yaml
+name: Shan Indeewa
+location: Sri Lanka
+education: BSc Computing @ Coventry University (via NIBM)
+current_focus: ["Full-Stack Development", "AI/ML", "Cloud Architecture"]
+learning: ["Advanced React Patterns", "Cloud Architecture", "System Design"]
+fun_fact: "I turn caffeine into deployable code ☕→💻"
+```
+
+- 🎓 Pursuing a **Bachelor's Degree in Computing** from **Coventry University**
+- 💻 Passionate about building scalable, real-world tech solutions
+- 🌱 Currently exploring **Advanced React Patterns** and **Cloud Architecture**
+- ⚡ Always excited to collaborate on innovative projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Microsoft SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-<a href="https://www.google.com/search?q=https://github.com/shanindeewa">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dshanindeewa%26theme%3Dtokyonight%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4" />
-</a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shanindeewa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanindeewa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-<table>
-<tr>
-<td>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dshanindeewa%26show_icons%3Dtrue%26theme%3Dtokyonight%26count_private%3Dtrue" />
-</td>
-<td>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dshanindeewa%26layout%3Dcompact%26theme%3Dtokyonight" />
-</td>
-</tr>
-</table>
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dshanindeewa%26theme%3Dtokyonight" alt="shanindeewa" />
-</div>
-
-<!--
-NOTE: The images below will appear BROKEN until you setup the GitHub Actions.
-See instructions below on how to create the workflows.
--->
-
-<div align="center">
-<h3>3D Contribution Graph</h3>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/shanindeewa/shanindeewa/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanindeewa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-<h3>Snake Animation</h3>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/shanindeewa/shanindeewa/output/github-contribution-grid-snake.svg" alt="Space Shooter/Snake Animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shanindeewa&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanindeewa&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<!-- You can add your pinned repositories here or showcase specific projects -->
+
+Coming soon! Check out my [repositories](https://github.com/shanindeewa?tab=repositories) for now.
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
+I'm always open to interesting conversations and collaboration opportunities!
 
+**📧 Email:** [shanindeewa@gmail.com](mailto:shanindeewa@gmail.com)
 
+**💼 LinkedIn:** [shan-indeewa](https://linkedin.com/in/shan-indeewa)
 
+</div>
 
-<i>Let's build something amazing together!</i>
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=50" alt="Footer"/>
+</div>
+
+<div align="center">
+  
+  ⭐️ From [shanindeewa](https://github.com/shanindeewa)
+  
 </div>
